@@ -7,7 +7,7 @@
 - Explain the purpose of a loop.
 - Understand when to use each type of loop.
 
-## Introduction
+## Introdu
 
 Sometimes, we need to do things repeatedly. Let's say we have a bunch of gifts
 to wrap. They all happen to be the same size and shape, so for every gift, we
